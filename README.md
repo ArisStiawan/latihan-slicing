@@ -1,6 +1,6 @@
 # Created by
 
-Aris Stiawan
+Aris Stiawan |
 V3423020
 
 # join-system-vue-yarn
